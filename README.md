@@ -23,4 +23,4 @@ https://varshahirem15-ui.github.io/responsive-tic-tac-toe/
 
 ## 📸 Project Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshort.png)
